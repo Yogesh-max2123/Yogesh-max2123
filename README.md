@@ -45,11 +45,15 @@
 ### 📊 Competitive Programming & Coding Stats
 
 <p align="center">
-  <!-- LeetCode Stats Card - Fetches your real-time LeetCode status seamlessly -->
-  <img src="https://leetcode-stats-dmitry.vercel.app/api?username=Yogesh2123&theme=dark" alt="Yogesh's LeetCode Stats" width="48%" />
+  <!-- Premium & Stable LeetCode Card -->
+  <a href="https://leetcode.com/Yogesh2123/">
+    <img src="https://leetcard.jacoblin.cool/Yogesh2123?theme=dark&font=Syne&ext=activity" alt="Yogesh's LeetCode Stats" width="48%" />
+  </a>
   
-  <!-- GitHub Contribution Streak - Focuses on consistency rather than just total pull requests -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-max2123&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <!-- GitHub Contribution Streak (Working Perfectly) -->
+  <a href="https://github.com/Yogesh-max2123">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-max2123&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  </a>
 </p>
 
 <p align="center">
@@ -66,9 +70,16 @@
 
 ---
 
-### 📈 GitHub Productivity & Activity
+### 📊 GitHub Productivity & Activity
 
 <p align="center">
-  <!-- A beautiful, colorful language grid that maps what you actually code in -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-max2123&layout=compact&theme=vision-theme&hide_border=true&langs_count=6" alt="Top Languages Map" width="70%" />
+  <!-- Extended Stats Card with Hidden Rank & Premium Theme -->
+  <a href="https://github.com/Yogesh-max2123">
+    <img src="https://github-stats-extended.vercel.app/api?username=Yogesh-max2123&show_icons=true&hide_rank=true&theme=tokyonight&border_radius=10&hide_title=false" alt="Yogesh's GitHub Stats" width="48%" />
+  </a>
+  
+  <!-- Extended Top Languages Card -->
+  <a href="https://github.com/Yogesh-max2123">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yogesh-max2123&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" alt="Top Languages" width="48%" />
+  </a>
 </p>
