@@ -37,13 +37,10 @@
 ---
 
 ### 🔥 Top Projects
-*My prominent repositories.*
 
-[![NexusOps](https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-max2123&repo=NexusOps&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Yogesh-max2123/NexusOps)
-[![Agentra OS](https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-max2123&repo=Agentra-OS&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Yogesh-max2123/Agentra-OS)
-[![Hybrid Candidate Ranker](https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-max2123&repo=Hybrid-Candidate-Ranker&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Yogesh-max2123/Hybrid-Candidate-Ranker)
-
----
+| 🚀 [NexusOps](https://github.com/Yogesh-max2123/NexusOps) | ✈️ [Agentra OS](https://github.com/Yogesh-max2123/Agentra-OS) | 🧠 [Hybrid Candidate Ranker](https://github.com/Yogesh-max2123/Hybrid-Candidate-Ranker) |
+| :--- | :--- | :--- |
+| A highly scalable, fault-tolerant distributed Machine Learning pipeline using Celery, Redis, and FastAPI for automated hyperparameter tuning. | An autonomous, multi-agent travel OS powered by LangGraph & Gemini. Features predictive waitlisting and real-time rerouting. | A high-performance, Late-Fusion Hybrid Search engine (FAISS + BM25) for intelligent candidate discovery and behavioral reranking. |
 
 ### 📊 GitHub Metrics & Activity
 
