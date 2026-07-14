@@ -42,7 +42,33 @@
 | :--- | :--- | :--- |
 | A highly scalable, fault-tolerant distributed Machine Learning pipeline using Celery, Redis, and FastAPI for automated hyperparameter tuning. | An autonomous, multi-agent travel OS powered by LangGraph & Gemini. Features predictive waitlisting and real-time rerouting. | A high-performance, Late-Fusion Hybrid Search engine (FAISS + BM25) for intelligent candidate discovery and behavioral reranking. |
 
-### 📊 GitHub Metrics & Activity
+### 📊 Competitive Programming & Coding Stats
 
-<!-- This is the new, stable metrics engine -->
-<img src="https://metrics.lecoq.io/Yogesh-max2123?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=1&base.metadata=0&config.timezone=Asia%2FKolkata" alt="Yogesh's Metrics" width="100%">
+<p align="center">
+  <!-- LeetCode Stats Card - Fetches your real-time LeetCode status seamlessly -->
+  <img src="https://leetcode-stats-dmitry.vercel.app/api?username=Yogesh2123&theme=dark" alt="Yogesh's LeetCode Stats" width="48%" />
+  
+  <!-- GitHub Contribution Streak - Focuses on consistency rather than just total pull requests -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-max2123&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Codeforces Badge -->
+  <a href="https://codeforces.com/profile/dixityogesh2004">
+    <img src="https://img.shields.io/badge/Codeforces-Specialist%20(1406)-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Specialist" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- CodeChef Badge -->
+  <a href="https://www.codechef.com/users/yogesh2123">
+    <img src="https://img.shields.io/badge/CodeChef-2%20Star%20(1406)-8B4513?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 2 Star" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Productivity & Activity
+
+<p align="center">
+  <!-- A beautiful, colorful language grid that maps what you actually code in -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-max2123&layout=compact&theme=vision-theme&hide_border=true&langs_count=6" alt="Top Languages Map" width="70%" />
+</p>
