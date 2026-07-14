@@ -37,37 +37,15 @@
 ---
 
 ### 🔥 Top Projects
-*Live stats fetched directly from my GitHub repositories.*
+*My prominent repositories.*
 
-<p align="center">
-  <a href="https://github.com/Yogesh-max2123/NexusOps">
-    <!-- Notice 'repo=NexusOps', change this if your GitHub repo name is slightly different -->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-max2123&repo=NexusOps&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="NexusOps Repo" />
-  </a>
-  <a href="https://github.com/Yogesh-max2123/Agentra-OS">
-    <!-- Notice 'repo=Agentra-OS', change this if your GitHub repo name is slightly different -->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-max2123&repo=Agentra-OS&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Agentra OS Repo" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Yogesh-max2123/CarWallah-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-max2123&repo=CarWallah-Project&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="CarWallah-Project" />
-  </a>
-</p>
+[![NexusOps](https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-max2123&repo=NexusOps&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Yogesh-max2123/NexusOps)
+[![Agentra OS](https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-max2123&repo=Agentra-OS&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Yogesh-max2123/Agentra-OS)
+[![Hybrid Candidate Ranker](https://github-readme-stats.vercel.app/api/pin/?username=Yogesh-max2123&repo=Hybrid-Candidate-Ranker&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Yogesh-max2123/Hybrid-Candidate-Ranker)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics & Activity
 
-<p align="center">
-  <!-- hide_rank=true is the magic code here that removes the grade circle! -->
-  <a href="https://github.com/Yogesh-max2123">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-max2123&show_icons=true&hide_rank=true&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="Yogesh's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Yogesh-max2123">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-max2123&layout=compact&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+<!-- This is the new, stable metrics engine -->
+<img src="https://metrics.lecoq.io/Yogesh-max2123?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=1&base.metadata=0&config.timezone=Asia%2FKolkata" alt="Yogesh's Metrics" width="100%">
